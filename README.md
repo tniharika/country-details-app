@@ -1,4 +1,3 @@
-Certainly! Here's an updated version of the README.md file that includes information on the Dockerfile:
 
 ```
 # Country Details App
@@ -66,9 +65,6 @@ To run the application using Docker, follow these steps:
 
    The application will be accessible at `http://localhost:5000` in your web browser.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
 
 ## License
 
