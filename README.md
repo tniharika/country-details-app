@@ -66,9 +66,5 @@ To run the application using Docker, follow these steps:
    The application will be accessible at `http://localhost:5000` in your web browser.
 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
 
 Make sure to update the Docker-related instructions if there are any specific commands or considerations related to your Docker setup.
